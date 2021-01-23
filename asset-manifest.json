@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ensinandohtml/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ensinandohtml/static/js/main.4ee5846f.chunk.js",
+    "main.js.map": "/ensinandohtml/static/js/main.4ee5846f.chunk.js.map",
+    "runtime-main.js": "/ensinandohtml/static/js/runtime-main.eec0ea19.js",
+    "runtime-main.js.map": "/ensinandohtml/static/js/runtime-main.eec0ea19.js.map",
+    "static/css/2.31ff0196.chunk.css": "/ensinandohtml/static/css/2.31ff0196.chunk.css",
+    "static/js/2.1c199a1d.chunk.js": "/ensinandohtml/static/js/2.1c199a1d.chunk.js",
+    "static/js/2.1c199a1d.chunk.js.map": "/ensinandohtml/static/js/2.1c199a1d.chunk.js.map",
+    "static/js/3.71714ae1.chunk.js": "/ensinandohtml/static/js/3.71714ae1.chunk.js",
+    "static/js/3.71714ae1.chunk.js.map": "/ensinandohtml/static/js/3.71714ae1.chunk.js.map",
+    "index.html": "/ensinandohtml/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/ensinandohtml/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/ensinandohtml/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1c199a1d.chunk.js.LICENSE.txt": "/ensinandohtml/static/js/2.1c199a1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eec0ea19.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.1c199a1d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4ee5846f.chunk.js"
+  ]
+}
